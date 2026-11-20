@@ -1,13 +1,13 @@
 {
-  "name": "babudev",
+  "name": "adbot",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BADMINTONSMP1.aternos.me",
-    "port": 31662,
+    "ip": "Badmintonsmp1.aternos.me",
+    "port": 19668,
     "version": "1.21.1"
   },
   "position": {
